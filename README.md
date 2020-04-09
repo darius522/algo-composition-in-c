@@ -2,7 +2,9 @@
 
 *REALLY* SIMPLE ALGORITHMIC COMPOSITION GENERATOR
 
-**To run, simply `cd` to the program directory and `./exe`
+**To run, simply `cd` to the program directory and `./exe`**
+
+Make also sure that the required dependencies such as *Csound* are installed
 
 ## NEW IN VERSION 3: 
 * ALLOW THE USER TO CHOOSE BETWEEN DAC WITH OR WITHOUT FILE RENDER
